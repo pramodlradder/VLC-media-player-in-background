@@ -13,3 +13,6 @@ unmute()<br>
 volumeup()<br>
 volumedown()<br>
 name()<br>
+
+If u are having a problem with volume control you can use (import pyautogui) 
+pyautogui.press('volumeup',20).This sets the system volume to 40%.(1 click = 2% volume up)
